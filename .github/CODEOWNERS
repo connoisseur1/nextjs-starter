@@ -1,0 +1,5 @@
+* @connoisseur1
+*.js @connoisseur1
+*.ts @connoisseur1
+*.tsx @connoisseur1
+/e2e/ @connoisseur1
